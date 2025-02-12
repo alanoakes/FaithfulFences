@@ -131,8 +131,10 @@ main > div.hdr-section {
     color: white !important;
 }
 
+button[type="button"].btn,
 nav.navbar {
-    background: #9AC748 !important;
+    background: #7c9fb2 !important;
+    border: none;
 }
 
 .carousel-item {
@@ -163,7 +165,7 @@ nav.navbar {
 }
 
 #ftr-img-2 {
-    background-image: url("images/IMG_20240311_231800.jpg");
+    background-image: url("images/ff_yard.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -172,7 +174,7 @@ nav.navbar {
 }
 
 #ftr-img-3 {
-    background-image: url("images/IMG_20240311_231741.jpg");
+    background-image: url("images/ff_drain.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -181,7 +183,7 @@ nav.navbar {
 }
 
 #ftr-img-4 {
-    background-image: url("images/IMG_20240311_231727.jpg");
+    background-image: url("images/ff_fence.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
