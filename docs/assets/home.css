@@ -133,8 +133,8 @@ main > div.hdr-section {
 
 button[type="button"].btn,
 nav.navbar {
-    background: white !important;
-    /* background: #7c9fb2 !important; */
+    /* background: white !important; */
+    background: #7c9fb2 !important;
     border: none;
 }
 
