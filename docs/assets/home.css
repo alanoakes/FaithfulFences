@@ -133,7 +133,8 @@ main > div.hdr-section {
 
 button[type="button"].btn,
 nav.navbar {
-    background: #7c9fb2 !important;
+    background: white !important;
+    /* background: #7c9fb2 !important; */
     border: none;
 }
 
@@ -145,6 +146,9 @@ nav.navbar {
 
 .carousel-item:nth-of-type(1) {
     background-image: url("images/Fencing_O_20250624_122732.jpg");
+    background-repeat: no-repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .carousel-item:nth-of-type(2) {
@@ -165,7 +169,7 @@ nav.navbar {
 }
 
 #ftr-img-2 {
-    background-image: url("images/ff_yard.jpg");
+    background-image: url("images/Fencing_O_20250624_123802.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -174,7 +178,7 @@ nav.navbar {
 }
 
 #ftr-img-3 {
-    background-image: url("images/ff_drain.jpg");
+    background-image: url("images/Fencing_O_20250624_123847.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
@@ -183,10 +187,10 @@ nav.navbar {
 }
 
 #ftr-img-4 {
-    background-image: url("images/ff_fence.jpg");
+    background-image: url("images/Fencing_0_20250624_124912.jpg");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
-    height: 500px;
-    width: 500px;
+    height: 400px;
+    width: 600px;
 }
