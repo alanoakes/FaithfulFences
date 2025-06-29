@@ -146,16 +146,24 @@ nav.navbar {
 
 .carousel-item:nth-of-type(1) {
     background-image: url("images/Fencing_O_20250624_122732.jpg");
+    background-position: center center; /* Center the image */
     background-repeat: no-repeat;
-    background-position: center; /* Center the image */
-    background-size: cover; /* Resize the background image to cover the entire container */
+    /* background-size: cover; Resize the background image to cover the entire container */
+    /* background-size: auto 100%; */
+    background-size: cover;
 }
 
 .carousel-item:nth-of-type(2) {
     background-image: url("images/Fending_0_20250624_124746.jpg");
+    background-position: center center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .carousel-item:nth-of-type(3) {
+    background-position: center center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: cover; /* Resize the background image to cover the entire container */
     background-image: url("images/Fencing_O_20250624_123306.jpg");
 }
 
