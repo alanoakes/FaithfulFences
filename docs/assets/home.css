@@ -145,7 +145,7 @@ nav.navbar {
 }
 
 .carousel-item:nth-of-type(1) {
-    background-image: url("images/Fencing_O_20250624_122732.jpg");
+    background-image: url("images/Fencing_O_20250624_122732.png");
     background-position: center center; /* Center the image */
     background-repeat: no-repeat;
     /* background-size: cover; Resize the background image to cover the entire container */
@@ -195,7 +195,7 @@ nav.navbar {
 }
 
 #ftr-img-4 {
-    background-image: url("images/Fencing_0_20250624_124912.jpg");
+    background-image: url("images/Fencing_0_20250624_124912.png");
     background-repeat: no-repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */
